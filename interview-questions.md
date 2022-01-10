@@ -7,7 +7,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What are props in React?
 
-  Your answer:
+  Your answer: I think is an object.
 
   Researched answer:
 
@@ -15,7 +15,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 2. What is a DOM event?
 
-  Your answer:
+  Your answer:I think is when we refresh a page or when we like somethig or just click on something.
 
   Researched answer:
 
@@ -23,7 +23,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 3. What is object-oriented programming? How is it different than functional programming?
 
-  Your answer:
+  Your answer: Rigth now the only thing i can think of is a type of program.
 
   Researched answer:
 
@@ -31,7 +31,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 4. What is the difference between a Float and an Integer in Ruby?
 
-  Your answer:
+  Your answer: They are both numbers but, a Float with decimals so it can be 1.5 or 0.15.
 
   Researched answer:
 
